@@ -2,7 +2,7 @@
 title: "Clase 2 Arqueología Cuantitativa"
 author: "Fran Santana"
 date: "2026-03-01"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}

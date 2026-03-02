@@ -24,7 +24,7 @@ install.packages("readxl")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/x3/qv2_x5xj4jx90qc3xvr06vlm0000gn/T//RtmpWkJI0S/downloaded_packages
+## 	/var/folders/x3/qv2_x5xj4jx90qc3xvr06vlm0000gn/T//RtmpXV9C8g/downloaded_packages
 ```
 
 ``` r
@@ -60,7 +60,7 @@ install.packages("tidyverse")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/x3/qv2_x5xj4jx90qc3xvr06vlm0000gn/T//RtmpWkJI0S/downloaded_packages
+## 	/var/folders/x3/qv2_x5xj4jx90qc3xvr06vlm0000gn/T//RtmpXV9C8g/downloaded_packages
 ```
 
 ``` r
@@ -211,7 +211,7 @@ install.packages("ggplot2")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/x3/qv2_x5xj4jx90qc3xvr06vlm0000gn/T//RtmpWkJI0S/downloaded_packages
+## 	/var/folders/x3/qv2_x5xj4jx90qc3xvr06vlm0000gn/T//RtmpXV9C8g/downloaded_packages
 ```
 
 ``` r
